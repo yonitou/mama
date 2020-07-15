@@ -176,6 +176,20 @@ a:hover {
       height:200px;
       width:200px;
     }
+    .footer {
+      display:flex;
+      flex-direction:column;
+      align-items:center;
+      justify-content: center;
+    }
+    .first-part {
+      border:none;
+    }
+    .second-part {
+      justify-content: center;
+      align-items: center;
+    }
+
   }
      @media (min-width: 768px) and (max-width: 834px) {
     body {
@@ -191,6 +205,20 @@ a:hover {
       height:200px;
       width:200px;
     }
+    .footer {
+      display:flex;
+      flex-direction:column;
+      align-items:center;
+      justify-content: center;
+    }
+    .first-part {
+      border:none;
+    }
+    .second-part {
+      justify-content: center;
+      align-items: center;
+    }
+
   }
        @media (min-width: 1024px) and (max-width: 1112px) {
     #introduction {
@@ -203,4 +231,5 @@ a:hover {
       height:200px;
       width:200px;
     }
+
   }

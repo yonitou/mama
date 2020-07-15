@@ -142,7 +142,7 @@ a:hover {
  @media (min-width: 320px) and (max-width: 414px) {
     #introduction {
       height:auto;
-      padding:40px 12px;
+      padding:40px 13px;
       line-height:24px;
     }
     #photo-mama {

@@ -139,7 +139,7 @@ a {
 a:hover {
   text-decoration: underline;
 }
- @media (min-width: 319px) and (max-width: 414px) {
+ @media (min-width: 320px) and (max-width: 414px) {
     #introduction {
       height:auto;
       padding:40px 13px;

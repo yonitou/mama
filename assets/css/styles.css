@@ -139,7 +139,7 @@ a {
 a:hover {
   text-decoration: underline;
 }
- @media (min-width: 320px) and (max-width: 414px) {
+ @media (min-width: 319px) and (max-width: 414px) {
     #introduction {
       height:auto;
       padding:40px 13px;
@@ -163,6 +163,9 @@ a:hover {
     .second-part {
       text-align:center;
       line-height:30px;
+    }
+    a {
+      text-decoration: underline;
     }
 
   }
@@ -190,6 +193,9 @@ a:hover {
     .second-part {
       text-align:center;
       line-height:30px;
+    }
+    a {
+      text-decoration: underline;
     }
 
   }
@@ -221,6 +227,9 @@ a:hover {
       text-align:center;
       line-height:30px;
     }
+    a {
+      text-decoration: underline;
+    }
 
   }
        @media (min-width: 1024px) and (max-width: 1112px) {
@@ -233,6 +242,9 @@ a:hover {
 
       height:200px;
       width:200px;
+    }
+    a {
+      text-decoration: underline;
     }
 
   }

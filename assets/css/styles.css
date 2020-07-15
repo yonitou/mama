@@ -139,3 +139,54 @@ a {
 a:hover {
   text-decoration: underline;
 }
+ @media (min-width: 320px) and (max-width: 414px) {
+    #introduction {
+      height:auto;
+      padding:40px 12px;
+      line-height:24px;
+    }
+    #photo-mama {
+
+      height:200px;
+      width:200px;
+    }
+  }
+   @media (min-width: 568px) and (max-width: 812px) {
+    #introduction {
+      height:auto;
+      padding:40px 12px;
+      line-height:24px;
+    }
+    #photo-mama {
+
+      height:200px;
+      width:200px;
+    }
+  }
+     @media (min-width: 768px) and (max-width: 834px) {
+    body {
+      max-width:834px;
+    }
+    #introduction {
+      height:auto;
+      padding:40px 12px;
+      line-height:24px;
+    }
+    #photo-mama {
+
+      height:200px;
+      width:200px;
+    }
+  }
+       @media (min-width: 1024px) and (max-width: 1112px) {
+    #introduction {
+      height:auto;
+      padding:40px 12px;
+      line-height:24px;
+    }
+    #photo-mama {
+
+      height:200px;
+      width:200px;
+    }
+  }

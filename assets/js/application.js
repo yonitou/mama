@@ -1,4 +1,9 @@
+---
+# The triple dashes are needed for Jekyll to process this file as a
+# Liquid template
+---
 
+{% turbolinks %}
 
 const arrow = document.querySelector('#first-arrow');
     arrow.addEventListener('click', (e) => {
@@ -10,7 +15,7 @@ const arrow = document.querySelector('#first-arrow');
 
 let typed = new Typed('#typed', {
     strings: ['MAMA'],
-    typeSpeed: 200,
+    typeSpeed: 300,
     showCursor: false
   });
 
